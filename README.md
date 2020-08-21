@@ -1,9 +1,9 @@
 ## ChronosX88
 
-### Hello world! <img src="https://github.com/ChronosX88/ChronosX88/raw/master/Earth.gif" width="24px">
+### <img src="https://github.com/ChronosX88/ChronosX88/raw/master/Earth.gif" width="24px"> Hello world!
 
 ### 📜 About me
-- 👨🏽‍💻   Fullstack software developer from Russia 🇷🇺  
+- 👨🏽‍💻   Fullstack software developer 
 - <img src="https://github.com/ChronosX88/ChronosX88/raw/master/open-source.png" width="16wv"> Free software activist  
 - <img src="https://github.com/ChronosX88/ChronosX88/raw/master/linux.png" width="16wv"> GNU/Linux fan   
 
