@@ -1,5 +1,3 @@
-## ChronosX88
-
 ### <img src="https://github.com/ChronosX88/ChronosX88/raw/master/Earth.gif" width="24px"> Hello world!
 
 ### 📜 About me
