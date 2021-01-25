@@ -11,15 +11,15 @@
 - 🇺🇸 English (second language)
 
 ### :star: My skills:
-  - distributed systems 
-  - web services (mostly backend, a little bit of frontend)
-  - microservices
-  - slightly DevOps (basic Docker knowledge, administration/tuning of Linux servers)
-  - little neural networks knowledge (I've previously used PyTorch)
-  - network/system programming 
-  - mobile development (Android)
-  - gamemodes development in GTA multiplayers (MTA/RAGE/alt:V)
-  
+
+- distributed/decentralized systems
+- web services (mostly backend, a little bit of frontend)
+- DevOps (basic Docker knowledge, administration/tuning of Linux servers)
+- little neural networks knowledge (I have some experience with PyTorch)
+- network/system programming
+- mobile development (Android)
+- ...and many other things :smile:
+
 ### 💾 My projects
 
 `// TODO`
