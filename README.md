@@ -14,7 +14,7 @@
 
 - distributed/decentralized systems
 - web services (mostly backend, a little bit of frontend)
-- DevOps (basic Docker knowledge, administration/tuning of Linux servers)
+- DevOps (Docker, administration/tuning of Linux servers)
 - basic neural network/ML experience
 - network/system programming
 - mobile development (Android)
@@ -22,7 +22,7 @@
 
 ### 💾 My projects
 
-`// TODO fill this section`
+`// TODO fill out this section`
 
 ### 📫 How to reach me
 
