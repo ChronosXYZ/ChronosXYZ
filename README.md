@@ -10,15 +10,37 @@
 - 🇷🇺 Russian (native language)
 - 🇺🇸 English (second language)
 
-### :star: My skills:
+### :star: Skills
+- Decentralized systems (including crypto/blockchain/web3)
+- Git and Git flow
+- Ethereum smart contracts (Solidity)
+- Backend development (Go, C#/.NET, Java)
+- Frontend development (Angular, Vue, Flutter)
+- Android mobile application development (Java/Kotlin, Android SDK)
+- Knowledge about Linux system internals
+- Desktop application development for Linux using GTK/Qt frameworks
+- Development of neural networks using PyTorch framework (Python)
+- Databases
+  - PostgreSQL
+  - MS SQL
+  - MongoDB
+- Redis
+- DevOps (Docker, Linux server administration)
 
-- distributed/decentralized systems
-- web services (mostly backend, a little bit of frontend)
-- DevOps (Docker, administration/tuning of Linux servers)
-- basic neural network/ML experience
-- network/system programming
-- mobile development (Android)
-- ...and many other things :smile:
+### 🗣 Languages
+
+- Emacs Lisp
+- Golang
+- Python
+- C
+- C#
+- C++
+- Java
+- Kotlin
+- Solidity
+- TypeScript
+- Dart
+
 
 ### 💾 My projects
 
