@@ -49,7 +49,7 @@
 ### 📫 How to reach me
 
 ✉️ You can contact me by email which is specified in my Github profile.  
-<img src="https://github.com/ChronosX88/ChronosX88/raw/master/tg.png" width="16px"> Also I'm available in Telegram - [@ChronosX](https://t.me/ChronosX).
+<img src="https://github.com/ChronosX88/ChronosX88/raw/master/tg.png" width="16px"> Also I'm available in Telegram - [@und3f1n3d0](https://t.me/und3f1n3d0).
 
 ### Some stats
 
